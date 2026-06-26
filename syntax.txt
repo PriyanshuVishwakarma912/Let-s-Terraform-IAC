@@ -1,0 +1,8 @@
+Terraform file syntax  [ HCL ]
+The syntax of HCL is:
+
+<block> <parameter> {
+
+  arguments
+
+}

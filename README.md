@@ -6,10 +6,6 @@ A hands-on learning repository for **Infrastructure as Code (IaC)** using **Terr
 
 This repository contains Terraform configurations for deploying AWS resources including EC2 instances, S3 buckets, security groups, and networking components. It's designed to help learn IaC principles and Terraform best practices through practical examples.
 
-**Repository Created**: March 29, 2026  
-**Primary Language**: HCL (HashiCorp Configuration Language)  
-**Cloud Provider**: AWS
-
 ### What's Inside
 
 - `EC2.tf` - EC2 instance provisioning with security groups and SSH keys
